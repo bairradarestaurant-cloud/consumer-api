@@ -1,0 +1,12 @@
+{
+  "name": "consumer-api",
+  "version": "1.0.0",
+  "description": "API de integração Consumer + Base44 - Feijoada do Bairrada",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
